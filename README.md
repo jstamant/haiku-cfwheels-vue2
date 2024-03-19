@@ -2,3 +2,12 @@
 
 This is a learning project to get the basics of CFML, CFWheels, and
 Vue2.
+
+## Running
+
+Start the development environment using `box` from the project's root.
+
+```bash
+box
+server start
+```
