@@ -5,9 +5,10 @@ Vue2.
 
 ## Running
 
-Start the development environment using `box` from the project's root.
+Start the development environment using `box` from the backend directory.
 
 ```bash
+cd backend
 box
 server start
 ```
