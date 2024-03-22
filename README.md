@@ -12,3 +12,10 @@ cd backend
 box
 server start
 ```
+
+## Requests
+
+If you want to test HTTP requests to the backend, you'll need to
+request the `json` format when sending a request:
+
+`GET http://localhost:port/haiku?format=json`
